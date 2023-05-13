@@ -1,3 +1,16 @@
 h1{
-    color: green
+    color: green;
+}
+
+
+#end-container{
+    display:none;
+}
+
+#quiz-container{
+    display: none;
+}
+
+#score-container{
+    display: none;
 }
